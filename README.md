@@ -1,0 +1,4 @@
+WordpressBase
+=============
+
+Wordpress base files
